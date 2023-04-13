@@ -1,0 +1,5 @@
+{
+  "dependencies":{
+    "go-tools":"git@github.com:dominikh/go-tools.git"
+  }
+}
